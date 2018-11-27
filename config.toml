@@ -1,0 +1,17 @@
+# Site settings
+publishDir = "docs"
+baseurl = "https://groupecesi.github.io/conference/"
+languageCode = "fr-FR"
+title = "Conférence : Le SI dans 3 ans"
+theme = "stellar"
+
+[params]
+  [params.header]
+    title = "Conférence A5 Cesi.Exia"
+    description = 'Livre Blanc disponible à partir du vendredi 30 Novembre'
+    image = "images/logo.svg"
+
+    # copyright
+    [params.footer.copyright]
+      enable = true
+      text = "© A5 Cesi.Exia"
