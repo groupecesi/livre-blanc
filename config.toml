@@ -1,6 +1,6 @@
 # Site settings
 publishDir = "docs"
-baseurl = "https://groupecesi.github.io/conference/"
+baseurl = "https://groupecesi.github.io/livre-blanc/"
 languageCode = "fr-FR"
 title = "Conférence : Le SI dans 3 ans"
 theme = "stellar"

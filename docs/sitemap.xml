@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://groupecesi.github.io/conference/categories/</loc>
+    <loc>https://groupecesi.github.io/livre-blanc/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://groupecesi.github.io/conference/</loc>
+    <loc>https://groupecesi.github.io/livre-blanc/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://groupecesi.github.io/conference/tags/</loc>
+    <loc>https://groupecesi.github.io/livre-blanc/tags/</loc>
     <priority>0</priority>
   </url>
   
